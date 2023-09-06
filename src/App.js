@@ -1,4 +1,4 @@
-import logo from './assets/investment-calculator-logo.png';
+
 import React from 'react';
 import InvestmentForm from './components/InvestmentForm';
 import ResultsTable from './components/ResultsTable';
